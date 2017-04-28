@@ -55,7 +55,7 @@ type-speed: 100
 start-delay: 500
 delete-delay: 1000
 lines: # You can add HTML Tags in the Text
-  - text: "Amy Yang shige keng"
+  - text: "钟期既遇，奏流水以何惭"
   - text: "Welcome to Xiaoshi's personal website"
 
 me-img: "/img/Profile Image.jpg"
@@ -116,9 +116,6 @@ events:
     date: "June 2013"
     description: "Graduate from CUP!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "August 2013 - Today"
-    description: "Studying in FSU"
-  - image: "/img/intro-bg-l.jpg"
     date: "August 2013 - Today"
     description: "Studying in FSU"
 # First image of the Timeline
