@@ -2,4 +2,4 @@
 
 MacDown
 
-![我的头像](/Users/XiaoshiZhang/Documents/Github/Website Design/personal-jekyll-theme/img/jetpacktocat.png)
+![我的头像](personal-jekyll-theme/img/jetpacktocat.png)
