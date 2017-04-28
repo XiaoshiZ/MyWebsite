@@ -2,4 +2,4 @@
 
 MacDown
 
-![我的头像](<img src="/personal-jekyll-theme/img/jetpacktocat.png" alt="hi">
+<img src="https://xiaoshiz.github.io/personal-jekyll-theme/img/jetpacktocat.png" alt="hi">
