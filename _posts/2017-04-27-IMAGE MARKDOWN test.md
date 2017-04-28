@@ -2,4 +2,4 @@
 
 MacDown
 
-![我的头像](<img src="/personal-jekyll-theme/img/jetpacktocat.png" alt="hi" class="inline"/>
+![我的头像](<img src="/personal-jekyll-theme/img/jetpacktocat.png" alt="hi">
